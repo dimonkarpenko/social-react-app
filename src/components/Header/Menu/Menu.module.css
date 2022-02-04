@@ -1,0 +1,15 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.item {
+    color: #fff;
+    margin: 0 15px;
+}
+
+.item:hover {
+    color: aqua;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.form {
+    background: rgba(255,255,255, 0.2);
+    border: 0;
+    color: #fff;
+    height: 26px;
+    border-radius: 13px;
+    font-size: 13px;
+    padding: 10px;
+}

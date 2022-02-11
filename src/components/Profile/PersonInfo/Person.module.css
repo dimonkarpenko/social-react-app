@@ -1,0 +1,14 @@
+.personImg {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.info p {
+    color: #000;
+    cursor: pointer;
+    text-align: center;
+}
+
+.info p:hover {
+    color: aqua;
+}

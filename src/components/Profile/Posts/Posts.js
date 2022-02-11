@@ -2,9 +2,11 @@ import s from "./Posts.module.css";
 
 const Posts = () => {
     return (
-        <div>
-            <div>New post</div>
-            <div>All poooosts</div>
+        <div className={s.textarea}>
+            <textarea />
+            <div>
+                <button>Add New Post</button>
+            </div>
         </div>
     );
 }

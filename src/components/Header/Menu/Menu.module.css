@@ -4,12 +4,17 @@
     flex-wrap: nowrap;
 }
 
-.item {
+.item a {
     color: #fff;
     margin: 0 15px;
+    text-decoration: none;
 }
 
-.item:hover {
+.item a:hover {
     color: aqua;
     cursor: pointer;
+}
+
+.item a.selected {
+    color: rgb(61, 145, 35);
 }

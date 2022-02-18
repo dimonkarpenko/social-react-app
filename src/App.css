@@ -1,0 +1,7 @@
+.app-wrapper-content {
+    max-width: 60%;
+
+    display: flex;
+    align-items: flex-end;
+    margin: 0 auto;
+}
